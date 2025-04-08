@@ -65,6 +65,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <!-- CrewAI -->
+  <img width="12" />
+  <img src="https://miro.medium.com/v2/resize:fit:1400/1*4LTbuktCcTYv7F_vuN-8sA.png" height="40" alt="crewai logo"  />
+  <!-- Hugging Face -->
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="40" alt="hugging face logo"  />
+  <img width="12" />
+
 </div>
 
 ###
