@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🎓 CSE Undergrad at IIIT Nagpur  <br>🤖 Exploring Machine Learning, Deep Learning & Generative AI  <br>🛠️ Love building real-world projects that make an impact  <br>🌍 Aspiring remote developer & digital nomad  <br>⚡ Currently working with Python, C++, and Transformers<br><br>Always up for exciting collabs — let’s build something awesome together! 🚀</p>
+<p align="left">🎓 CSE Undergrad at IIIT Nagpur  <br>🤖 Exploring Machine Learning, Deep Learning & Generative AI  <br>🛠️ Love building real-world projects that make an impact <br>⚡ Currently working with Python, C++, and Transformers<br><br>Always up for exciting collabs — let’s build something awesome together! 🚀</p>
 
 ###
 
